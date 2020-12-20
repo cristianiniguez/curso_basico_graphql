@@ -1,7 +1,7 @@
 {
   "name": "curso_graphql",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto del Curso Básico de GraphQL de Platzi",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -24,5 +24,16 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.6"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianiniguez/curso_basico_graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristianiniguez/curso_basico_graphql/issues"
+  },
+  "homepage": "https://github.com/cristianiniguez/curso_basico_graphql#readme"
 }
